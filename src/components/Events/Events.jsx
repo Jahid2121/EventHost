@@ -61,7 +61,7 @@ const Events = () => {
   </div> 
   {/* card 2 */}
   <div style={{ borderRadius: '0px 0px 4px 18px' }} className="container bg-artificialNavyBlue shadow-xl border border-white ">
-      <Image src={img2} alt="img2" />
+      <Image src={img3} alt="img2" />
 
 <div className="card-body">
         <div style={{
@@ -96,7 +96,7 @@ const Events = () => {
   </div> 
   {/* card 3 */}
   <div style={{ borderRadius: '0px 0px 4px 18px' }} className="container bg-artificialNavyBlue shadow-xl border border-white ">
-      <Image src={img2} alt="img2" />
+      <Image src={img4} alt="img2" />
 
 <div className="card-body">
         <div style={{
