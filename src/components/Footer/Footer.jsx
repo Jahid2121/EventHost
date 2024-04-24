@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='text-white'>
             <footer className="footer p-10 bg-[#7a4af9] text-neutral-content">
   <aside>
-   <Image src={logo} />
+   <Image src={logo} alt='logo'/>
     <p className='text-white'>IDEA Project, ICT Tower (0th Floor), <br /> Plot: E-14X, Agargaon, Dhaka - 1207 <br />
 02222-222222, 01111111111</p>
     EventHost
