@@ -1,8 +1,8 @@
 import Banner from "@/components/Banner/Banner";
 import Events from "@/components/Events/Events";
 import Host from "@/components/Host/Host";
+import Payments from "@/components/Payments/Payments";
 import QrSection from "@/components/QrSection/QrSection";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -11,6 +11,7 @@ export default function Home() {
     <Events />
     <Host />
     <QrSection />
+    <Payments />
     </div>
   );
 }
