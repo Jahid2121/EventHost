@@ -27,7 +27,7 @@ const Navbar = () => {
         <Links />
       </div>
     
-      <div className="flex items-center space-x-4 pr-4 md:pr-0">
+      <div className="flex items-center space-x-4 pr-4 md:pr-7">
         <div className="avatar">
           <div className="w-7 rounded-full">
             <Image width={100} height={100} src="https://i.ibb.co/5M9kg9t/Professional-Profile.png" alt='avatar' />
