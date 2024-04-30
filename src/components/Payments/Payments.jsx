@@ -9,7 +9,7 @@ const Payments = () => {
         <div>
             <div className='text-black mt-10 mb-32 md:overflow-hidden flex mx-auto items-center bg-gradient-to-b from-white via-white to-[#F1F3FF] flex-col    md:w-[1160px] rounded-xl md:h-[700px] '>
                 <h2 className=' text-4xl font-bold'>SIMPLIFY TICKETING</h2>
-                <p className=' text-[#7a4af9] '>First Ever Unique QR Ticketing <br />Platform For Event Registration & Booking
+                <p className=' text-[#7a4af9] text-center'>First Ever Unique QR Ticketing <br />Platform For Event Registration & Booking
                     Secure Payment with</p>
                 <div className="bg-[#7a4af9] flex text-white btn hover:bg-[#7a4af9] mt-2">
                     <Image src={verified} alt="verified Image" />
@@ -30,7 +30,7 @@ const Payments = () => {
                             <div  className="flex  flex-col justify-center items-center ">
 
                         <div className=" bg-white w-20 h-4 mt-4 rounded-lg"></div>
-                        <Image src={bkash} alt="rocket" className="  mt-36 " />
+                        <Image src={nogod} alt="rocket" className="  mt-36 " />
                         </div>  
                         </div>
                         {/* payment option div 3 */}
@@ -38,7 +38,7 @@ const Payments = () => {
                             <div  className="flex  flex-col justify-center items-center ">
 
                         <div className=" bg-white w-20 h-4 mt-4 rounded-lg"></div>
-                        <Image src={nogod} alt="rocket" className="  mt-36 " />
+                        <Image src={bkash} alt="rocket" className="  mt-36 " />
                         </div>  
                         </div>
                     </div>

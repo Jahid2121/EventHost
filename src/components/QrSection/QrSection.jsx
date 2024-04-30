@@ -11,7 +11,7 @@ const QrSection = () => {
           Automated QR Scanner
           </h2>
 <h3 className='text-[#7a4af9] text-xl flex justify-center'>Scan & Verify The Attendees Directly By Our QR Scanning Solution.</h3>
-<div className=' flex md:flex-row flex-col gap-6'>
+<div className=' flex md:flex-row flex-col ml-10 mt-8 gap-6'>
     {/* card 1 */}
 <div className="card bg-gray-100 w-72 shadow-xl">
   <div className="card-body">
